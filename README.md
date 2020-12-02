@@ -5,6 +5,7 @@ Your deliverable is to create a Node/Express/Sequelize server that can be querie
 - `fork` and `clone` this repository to begin.
 
 ## Recommended ways to get started
+- Create an ERD to establish what sort of models you'll want to be working with.
 - Create an entry point by `touching` either `server.js`, `app.js`, or `index.js`
 - `npm init -y` to initialize your project with Node
 - `npm i pg sequelize express cors body-parser` to install proper dependencies
