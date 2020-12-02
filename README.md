@@ -13,7 +13,7 @@ Your deliverable is to create a Node/Express/Sequelize server that can be querie
 - `npx sequelize-cli init` to initialize this as a sequelize project
 - Make sure that the dialect in your config.json is `postgres`, remove unnecessary fields, and change the name of your database to the name you'd like to use
 - Create your database with `npx sequelize-cli db:create`
-- Create your models with `npx sequelize-cli model:generate --name  --attributes'
+- Create your models with `npx sequelize-cli model:generate --name  --attributes`
 - Set up proper associations between your models 
 - Migrate your database with `npx sequelize-cli db:migrate`
 - Create `routes` and `controllers` folders with an `AppRouter.js` in your Routes folder
