@@ -1,15 +1,19 @@
 # Express Sequelize Practice
 
+## Getting Started
+
+- Fork and Clone
+
 ## Instructions
 Your deliverable is to create a Node/Express/Sequelize server that can be queried externally. To test this, you'll need to use tools like Insomnia or Postman.
-- `fork` and `clone` this repository to begin.
 
 ## Recommended ways to get started
-- Create an ERD to establish what sort of models you'll want to be working with.
+- Create an ERD to establish what sort of models you'll want to be working with. **(No more than `3` models should be created)**.
 - Create an entry point by `touching` either `server.js`, `app.js`, or `index.js`
 - `npm init -y` to initialize your project with Node
 - `npm i pg sequelize express cors body-parser` to install proper dependencies
 - `npm i --save-dev nodemon faker` to install dev dependencies
+- Set up your scripts the in `package.json` to run your server.
 - `sequelize init` to initialize this as a sequelize project
 - Make sure that the dialect in your config.json is `postgres`, remove unnecessary fields, and change the name of your database to the name you'd like to use
 - Create your database with `sequelize db:create`
