@@ -1,4 +1,4 @@
-# Express Sequelize API from Sratch
+# Express Sequelize API from Scratch
 
 ![Baloo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.gfycat.com%2FEmbellishedWideEastrussiancoursinghounds-size_restricted.gif&f=1&nofb=1)
 
