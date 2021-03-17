@@ -1,6 +1,6 @@
 # Express Sequelize API from Scratch
 
-![Baloo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.gfycat.com%2FEmbellishedWideEastrussiancoursinghounds-size_restricted.gif&f=1&nofb=1)
+![Baloo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2Fe86a78752866532468b9c93559cfcd67%2Ftenor.gif%3Fitemid%3D10385357&f=1&nofb=1)
 
 ## Overview
 In this lab, we'll be building our very own Express Sequelize API from nothing! We'll start in the design process with an ERD and proceed all the way through to testing our API out with Insomnia.
@@ -52,7 +52,8 @@ app.listen(PORT, () => console.log(`Server Started On Port: ${PORT}`))
 ## Recap
 If completed correctly, you've gone through the entire process of conceptualizing your database with an ERD, starting a Node project from scratch with `npm init -y`, and adding in Sequelize, setting up models/routes/controllers, model associations, and queries to interact with the database.  This is everything you need to set up your backend for a full stack application! Feel the power!
 
-## Resources
+![Dance](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FykUYsNYRvrprq%2Fgiphy.gif&f=1&nofb=1)
 
+## Resources
 - [Express Sequelize](https://github.com/SEI-R-1-25/u3_lesson_express_sequelize)
 - [Sequelize Cheatsheet](https://github.com/SEI-R-1-25/u3_cheatsheet_sequelize)
