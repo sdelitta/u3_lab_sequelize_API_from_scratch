@@ -1,6 +1,6 @@
 # Express Sequelize API from Scratch
 
-![Baloo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2Fe86a78752866532468b9c93559cfcd67%2Ftenor.gif%3Fitemid%3D10385357&f=1&nofb=1)
+![Baloo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.gfycat.com%2FEmbellishedWideEastrussiancoursinghounds-size_restricted.gif&f=1&nofb=1)
 
 ## Overview
 In this lab, we'll be building our very own Express Sequelize API from nothing! We'll start in the design process with an ERD and proceed all the way through to testing our API out with Insomnia.
