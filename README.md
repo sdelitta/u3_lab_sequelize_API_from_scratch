@@ -10,7 +10,7 @@ In this lab, we'll be building our very own Express Sequelize API from nothing! 
 - Read through the FULL INSTRUCTIONS before starting this lab
 
 ## Instructions
-Your deliverable is to create a Node/Express/Sequelize server that can be queried externally. To test this, you'll need Insomnia.
+Your goal is to create a Node/Express/Sequelize server that can be queried externally. To test this, you'll need Insomnia.
 
 ## Recommended Process
 - Create an ERD to establish what sort of models you'll want to be working with. **(No more than `3` models should be created)**.
