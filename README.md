@@ -53,5 +53,6 @@ app.listen(PORT, () => console.log(`Server Started On Port: ${PORT}`))
 If completed correctly, you've gone through the entire process of conceptualizing your database with an ERD, starting a Node project from scratch with `npm init -y`, and adding in Sequelize, setting up models/routes/controllers, model associations, and queries to interact with the database.  This is everything you need to set up your backend for a full stack application! Feel the power!
 
 ## Resources
-[Express Sequelize](https://github.com/SEI-R-1-25/u3_lesson_express_sequelize)
-[Sequelize Cheatsheet](https://github.com/SEI-R-1-25/u3_cheatsheet_sequelize)
+
+- [Express Sequelize](https://github.com/SEI-R-1-25/u3_lesson_express_sequelize)
+- [Sequelize Cheatsheet](https://github.com/SEI-R-1-25/u3_cheatsheet_sequelize)
