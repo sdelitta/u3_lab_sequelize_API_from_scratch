@@ -55,5 +55,5 @@ If completed correctly, you've gone through the entire process of conceptualizin
 ![Dance](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FykUYsNYRvrprq%2Fgiphy.gif&f=1&nofb=1)
 
 ## Resources
-- [Express Sequelize](https://github.com/SEI-R-1-25/u3_lesson_express_sequelize)
-- [Sequelize Cheatsheet](https://github.com/SEI-R-1-25/u3_cheatsheet_sequelize)
+- [Express Sequelize](https://github.com/SEI-R-4-26/u3_lesson_express_sequelize)
+- [Sequelize Cheatsheet](https://github.com/SEI-R-4-26/u3_cheatsheet_sequelize)
