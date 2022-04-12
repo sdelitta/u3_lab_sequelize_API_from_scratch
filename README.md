@@ -29,7 +29,6 @@ Your goal is to create a Node/Express/Sequelize server that can be queried exter
 - Set up your server entry point like this:
 ```js
 const app = require('express')()
-const bodyParser = require('body-parser')
 const cors = require('cors')
 
 const AppRouter = require('./routes/AppRouter')
@@ -37,8 +36,7 @@ const AppRouter = require('./routes/AppRouter')
 const PORT = process.env.PORT || 3001
 
 app.use(cors())
-app.use(bodyParser.json())
-app.use(bodyParser.urlencoded({ extended: true }))
+app.use(express.json())
 
 app.get('/', (req, res) => res.json({ message: 'Server Works' }))
 app.use('/api', AppRouter)
