@@ -17,7 +17,7 @@ Your goal is to create a Node/Express/Sequelize server that can be queried exter
 - Create an entry point by `touching` either `server.js`, `app.js`, or `index.js`
 - `npm init -y` to initialize your project with Node
 - `npm i pg sequelize express cors body-parser` to install proper dependencies
-- `npm i --save-dev nodemon faker` to install dev dependencies
+- `npm i @ngneat/falso` to install dependencies
 - Set up your scripts the in `package.json` to run your server.
 - `sequelize init` to initialize this as a sequelize project
 - Make sure that the dialect in your config.json is `postgres`, remove unnecessary fields, and change the name of your database to the name you'd like to use
